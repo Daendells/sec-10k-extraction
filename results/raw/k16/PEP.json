@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\"value\": \"93,925\", \"scale\": \"millions\", \"evidence\": \"Net Revenue | $ | 93,925 | $ | 91,854 | $ | 91,471\"},\n  \"net_income\": {\"value\": \"8,240\", \"scale\": \"millions\", \"evidence\": \"Net Income Attributable to PepsiCo | $ | 8,240 | $ | 9,578 | $ | 9,074\"},\n  \"diluted_eps\": {\"value\": \"6.00\", \"scale\": \"units\", \"evidence\": \"Diluted | $ | 6.00 | $ | 6.95 | $ | 6.56\"},\n  \"total_assets\": {\"value\": \"107,399\", \"scale\": \"millions\", \"evidence\": \"Total Assets | $ | 107,399 | $ | 99,467\"},\n  \"cash\": {\"value\": \"9,159\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 9,159 | $ | 8,505\"},\n  \"equity\": {\"value\": \"20,406\", \"scale\": \"millions\", \"evidence\": \"Total PepsiCo Common Shareholders' Equity | 20,406 | 18,041\"}\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 36.1
+}

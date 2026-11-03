@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": 447567, \"scale\": \"millions\", \"evidence\": \"Total revenues | 447,567 | 400,278 | 371,622\"}, \"net_income\": {\"value\": 12056, \"scale\": \"millions\", \"evidence\": \"Net earnings attributable to UnitedHealth Group common shareholders | $ | 12,056 | $ | 14,405 | $ | 22,381\"}, \"diluted_eps\": {\"value\": 13.23, \"scale\": \"units\", \"evidence\": \"Diluted | $ | 13.23 | $ | 15.51 | $ | 23.86\"}, \"total_assets\": {\"value\": 309581, \"scale\": \"millions\", \"evidence\": \"Total assets | $ | 309,581 | $ | 298,278\"}, \"cash\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"equity\": {\"value\": 94110, \"scale\": \"millions\", \"evidence\": \"Total UnitedHealth Group shareholders\u2019 equity | 94,110 | 92,658\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 42.3
+}

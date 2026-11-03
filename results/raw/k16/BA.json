@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"89,463\", \"scale\": \"millions\", \"evidence\": \"Total revenues | 89,463 | 66,517 | 77,794\"}, \"net_income\": {\"value\": \"2,235\", \"scale\": \"millions\", \"evidence\": \"Net earnings/(loss) attributable to Boeing shareholders | 2,235 | ( 11,817 ) | ( 2,222 )\"}, \"diluted_eps\": {\"value\": \"2.48\", \"scale\": \"units\", \"evidence\": \"Diluted earnings/(loss) per share | $ 2.48 | ($ 18.36 ) | ($ 3.67 )\"}, \"total_assets\": {\"value\": \"168,235\", \"scale\": \"millions\", \"evidence\": \"Total assets | $ 168,235 | $ 156,363\"}, \"cash\": {\"value\": \"10,921\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ 10,921 | $ 13,801\"}, \"equity\": {\"value\": \"5,454\", \"scale\": \"millions\", \"evidence\": \"Total shareholders' equity/(deficit) | 5,454 | ( 3,908 )\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 28.1
+}

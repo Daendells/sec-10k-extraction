@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\n    \"value\": null,\n    \"scale\": null,\n    \"evidence\": null\n  },\n  \"net_income\": {\n    \"value\": \"7,771\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Net income | 7,771 | 7,771 | 41 | 7,812\"\n  },\n  \"diluted_eps\": {\n    \"value\": null,\n    \"scale\": null,\n    \"evidence\": null\n  },\n  \"total_assets\": {\n    \"value\": \"208,160\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Total assets | $ | 208,160 | $ | 213,396\"\n  },\n  \"cash\": {\n    \"value\": \"1,142\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Cash and cash equivalents | $ | 1,142 | $ | 1,043\"\n  },\n  \"equity\": {\n    \"value\": \"86,476\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Total Pfizer Inc. shareholders\u2019 equity | 86,476 | 88,203\"\n  }\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 43.4
+}

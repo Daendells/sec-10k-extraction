@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": 65011, \"scale\": \"millions\", \"evidence\": \"Sales | $ | 65,011 | $ | 64,168 | $ | 60,115\"}, \"net_income\": {\"value\": 18254, \"scale\": \"millions\", \"evidence\": \"Net Income Attributable to Merck & Co., Inc. | $ | 18,254 | $ | 17,117 | $ | 365\"}, \"diluted_eps\": {\"value\": 7.28, \"scale\": \"units\", \"evidence\": \"Earnings per Common Share Assuming Dilution Attributable to Merck & Co., Inc. Common Shareholders | $ | 7.28 | $ | 6.74 | $ | 0.14\"}, \"total_assets\": {\"value\": 136866, \"scale\": \"millions\", \"evidence\": \"$ | 136,866 | $ | 117,106\"}, \"cash\": {\"value\": 14565, \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 14,565 | $ | 13,242\"}, \"equity\": {\"value\": 52606, \"scale\": \"millions\", \"evidence\": \"Total Merck & Co., Inc. stockholders' equity | 52,606 | 46,313\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 36.0
+}

@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\n    \"value\": 10644.6,\n    \"scale\": \"millions\",\n    \"evidence\": \"Total operating revenues | 10,644.6 | 10,127.2 | 10,012.2\"\n  },\n  \"net_income\": {\n    \"value\": 2529.5,\n    \"scale\": \"millions\",\n    \"evidence\": \"Net income attributable to American Tower Corporation common stockholders | $ | 2,529.5 | $ | 2,255.0 | $ | 1,483.3\"\n  },\n  \"diluted_eps\": {\n    \"value\": 5.40,\n    \"scale\": \"units\",\n    \"evidence\": \"Diluted net income attributable to American Tower Corporation common stockholders per common share | $ | 5.40 | $ | 4.82 | $ | 3.18\"\n  },\n  \"total_assets\": {\n    \"value\": 63190.4,\n    \"scale\": \"millions\",\n    \"evidence\": \"TOTAL | $ | 63,190.4 | $ | 61,077.4\"\n  },\n  \"cash\": {\n    \"value\": null,\n    \"scale\": null,\n    \"evidence\": null\n  },\n  \"equity\": {\n    \"value\": 3652.5,\n    \"scale\": \"millions\",\n    \"evidence\": \"Total American Tower Corporation equity | 3,652.5 | 3,382.2\"\n  }\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 76.8
+}

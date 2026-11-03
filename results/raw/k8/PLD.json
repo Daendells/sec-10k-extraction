@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": 8790127, \"scale\": \"thousands\", \"evidence\": \"Total revenues | 8,790,127 | 8,201,610 | 8,023,469\"}, \"net_income\": {\"value\": 3322349, \"scale\": \"thousands\", \"evidence\": \"Net earnings attributable to common stockholders | $ | 3,322,349 | $ | 3,725,754 | $ | 3,053,373\"}, \"diluted_eps\": {\"value\": 3.56, \"scale\": \"units\", \"evidence\": \"Net earnings per share attributable to common stockholders \u2013 Diluted | $ | 3.56 | $ | 4.01 | $ | 3.29\"}, \"total_assets\": {\"value\": 98724256, \"scale\": \"thousands\", \"evidence\": \"Total assets | $ | 98,724,256 | $ | 95,328,909\"}, \"cash\": {\"value\": 1145647, \"scale\": \"thousands\", \"evidence\": \"Cash and cash equivalents | 1,145,647 | 1,318,591\"}, \"equity\": {\"value\": 53193178, \"scale\": \"thousands\", \"evidence\": \"Total Prologis, Inc. stockholders\u2019 equity | 53,193,178 | 53,951,138\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 39.5
+}

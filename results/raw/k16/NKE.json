@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\n    \"value\": 46398,\n    \"scale\": \"millions\",\n    \"evidence\": \"Revenues | $ | 46,398 | $ | 46,309 | $ | 51,362\"\n  },\n  \"net_income\": {\n    \"value\": 3108,\n    \"scale\": \"millions\",\n    \"evidence\": \"NET INCOME | $ | 3,108 | $ | 3,219 | $ | 5,700\"\n  },\n  \"diluted_eps\": {\n    \"value\": 2.10,\n    \"scale\": \"units\",\n    \"evidence\": \"Diluted | $ | 2.10 | $ | 2.16 | $ | 3.73\"\n  },\n  \"total_assets\": {\n    \"value\": 38410,\n    \"scale\": \"millions\",\n    \"evidence\": \"TOTAL ASSETS | $ | 38,410 | $ | 36,579\"\n  },\n  \"cash\": {\n    \"value\": 7563,\n    \"scale\": \"millions\",\n    \"evidence\": \"Cash and equivalents | $ | 7,563 | $ | 7,464\"\n  },\n  \"equity\": {\n    \"value\": 14865,\n    \"scale\": \"millions\",\n    \"evidence\": \"Total shareholders' equity | 14,865 | 13,213\"\n  }\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 27.1
+}

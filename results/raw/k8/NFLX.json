@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": 45183036, \"scale\": \"thousands\", \"evidence\": \"Total amounts presented in the Consolidated Statements of Operations | $ | 45,183,036 | $ | 23,275,329 | $ | 172,459\"}, \"net_income\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"diluted_eps\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"total_assets\": {\"value\": 55596993, \"scale\": \"thousands\", \"evidence\": \"Total assets | $ | 55,596,993 | $ | 53,630,374\"}, \"cash\": {\"value\": 9033681, \"scale\": \"thousands\", \"evidence\": \"Cash and cash equivalents | $ | 9,033,681 | $ | 7,804,733\"}, \"equity\": {\"value\": 26615488, \"scale\": \"thousands\", \"evidence\": \"Total stockholders\u2019 equity | 26,615,488 | 24,743,567\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 54.9
+}

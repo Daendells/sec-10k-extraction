@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\n    \"value\": \"45,183,036\",\n    \"scale\": \"thousands\",\n    \"evidence\": \"Total Streaming Revenues | $ | 45,183,036 | $ | 39,000,966 | $ | 33,640,458\"\n  },\n  \"net_income\": {\n    \"value\": \"10,981,201\",\n    \"scale\": \"thousands\",\n    \"evidence\": \"Net income | $ | 10,981,201 | $ | 8,711,631 | $ | 5,407,990\"\n  },\n  \"diluted_eps\": {\n    \"value\": \"2.53\",\n    \"scale\": \"units\",\n    \"evidence\": \"Diluted | $ | 2.53 | $ | 1.98 | $ | 1.20\"\n  },\n  \"total_assets\": {\n    \"value\": \"55,596,993\",\n    \"scale\": \"thousands\",\n    \"evidence\": \"Total assets | $ | 55,596,993 | $ | 53,630,374\"\n  },\n  \"cash\": {\n    \"value\": \"9,033,681\",\n    \"scale\": \"thousands\",\n    \"evidence\": \"Cash and cash equivalents | $ | 9,033,681 | $ | 7,804,733\"\n  },\n  \"equity\": {\n    \"value\": \"26,615,488\",\n    \"scale\": \"thousands\",\n    \"evidence\": \"Total stockholders\u2019 equity | 26,615,488 | 24,743,567\"\n  }\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 41.5
+}

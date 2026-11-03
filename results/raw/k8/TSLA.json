@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"94,827\", \"scale\": \"millions\", \"evidence\": \"Total revenues | 94,827 | 97,690 | 96,773\"}, \"net_income\": {\"value\": \"3,794\", \"scale\": \"millions\", \"evidence\": \"Net income attributable to common stockholders | $ | 3,794 | $ | 7,091 | $ | 14,997\"}, \"diluted_eps\": {\"value\": \"1.08\", \"scale\": \"units\", \"evidence\": \"Diluted | $ | 1.08 | $ | 2.04 | $ | 4.30\"}, \"total_assets\": {\"value\": \"137,806\", \"scale\": \"millions\", \"evidence\": \"Total assets | $ | 137,806 | $ | 122,070\"}, \"cash\": {\"value\": \"16,513\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 16,513 | $ | 16,139 | $ | 16,398\"}, \"equity\": {\"value\": \"82,137\", \"scale\": \"millions\", \"evidence\": \"Total stockholders' equity | 82,137 | 72,913\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 20.8
+}

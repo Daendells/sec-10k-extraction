@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": 713163, \"scale\": \"millions\", \"evidence\": \"Total revenues | 713,163 | 680,985 | 648,125\"}, \"net_income\": {\"value\": 21893, \"scale\": \"millions\", \"evidence\": \"Consolidated net income attributable to Walmart | $ | 21,893 | $ | 19,436 | $ | 15,511\"}, \"diluted_eps\": {\"value\": 2.73, \"scale\": \"units\", \"evidence\": \"Diluted net income per common share attributable to Walmart | 2.73 | 2.41 | 1.91\"}, \"total_assets\": {\"value\": 284668, \"scale\": \"millions\", \"evidence\": \"Total assets | $ | 284,668 | $ | 260,823\"}, \"cash\": {\"value\": 10727, \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 10,727 | $ | 9,037\"}, \"equity\": {\"value\": 99617, \"scale\": \"millions\", \"evidence\": \"Total Walmart shareholders' equity | 99,617 | 91,013\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 19.5
+}

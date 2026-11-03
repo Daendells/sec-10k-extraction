@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"net_income\": {\"value\": 4968, \"scale\": \"millions\", \"evidence\": \"Net Income Attributable to Duke Energy Corporation | 4,968 | 4,524 | 2,841\"}, \"diluted_eps\": {\"value\": 6.31, \"scale\": \"units\", \"evidence\": \"Net income available to Duke Energy Corporation common stockholders Basic and Diluted | $ | 6.31 | $ | 5.71 | $ | 3.54\"}, \"total_assets\": {\"value\": 195736, \"scale\": \"millions\", \"evidence\": \"Total Liabilities and Equity | $ | 195,736 | $ | 186,343\"}, \"cash\": {\"value\": 62, \"scale\": \"millions\", \"evidence\": \"Cash, cash equivalents and restricted cash at end of period | $ | 62 | $ | 75 | $ | 67\"}, \"equity\": {\"value\": 51842, \"scale\": \"millions\", \"evidence\": \"Total Duke Energy Corporation stockholders' equity | 51,842 | 50,127\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 38.7
+}

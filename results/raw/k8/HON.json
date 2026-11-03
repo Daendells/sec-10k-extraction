@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"net_income\": {\"value\": 4729, \"scale\": \"millions\", \"evidence\": \"Net income attributable to Honeywell | 4,729 | 5,705 | 5,658\"}, \"diluted_eps\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"total_assets\": {\"value\": 73681, \"scale\": \"millions\", \"evidence\": \"Total assets | $ | 73,681 | $ | 75,196\"}, \"cash\": {\"value\": 12487, \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 12,487 | $ | 9,906\"}, \"equity\": {\"value\": 13904, \"scale\": \"millions\", \"evidence\": \"Total Honeywell shareowners\u2019 equity | 13,904 | 18,619\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 47.2
+}

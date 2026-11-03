@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\n    \"value\": 713163,\n    \"scale\": \"millions\",\n    \"evidence\": \"Total revenues | 713,163 | 680,985 | 648,125\"\n  },\n  \"net_income\": {\n    \"value\": 21893,\n    \"scale\": \"millions\",\n    \"evidence\": \"Consolidated net income attributable to Walmart | $ | 21,893 | $ | 19,436 | $ | 15,511\"\n  },\n  \"diluted_eps\": {\n    \"value\": 2.73,\n    \"scale\": \"units\",\n    \"evidence\": \"Diluted net income per common share attributable to Walmart | 2.73 | 2.41 | 1.91\"\n  },\n  \"total_assets\": {\n    \"value\": 284668,\n    \"scale\": \"millions\",\n    \"evidence\": \"Total assets | $ | 284,668 | $ | 260,823\"\n  },\n  \"cash\": {\n    \"value\": 10727,\n    \"scale\": \"millions\",\n    \"evidence\": \"Cash and cash equivalents | $ | 10,727 | $ | 9,037\"\n  },\n  \"equity\": {\n    \"value\": 99617,\n    \"scale\": \"millions\",\n    \"evidence\": \"Total Walmart shareholders' equity | 99,617 | 91,013\"\n  }\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 27.1
+}

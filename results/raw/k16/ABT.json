@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"44,328\", \"scale\": \"millions\", \"evidence\": \"Net Sales | $ | 44,328 | $ | 41,950 | $ | 40,109\"}, \"net_income\": {\"value\": \"6,524\", \"scale\": \"millions\", \"evidence\": \"Net earnings | $ | 6,524 | $ | 13,402 | $ | 5,723\"}, \"diluted_eps\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"total_assets\": {\"value\": \"86,713\", \"scale\": \"millions\", \"evidence\": \"$ | 86,713 | $ | 81,414\"}, \"cash\": {\"value\": \"8,522\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 8,522 | $ | 7,616\"}, \"equity\": {\"value\": \"52,130\", \"scale\": \"millions\", \"evidence\": \"Total Abbott Shareholders' Investment | 52,130 | 47,664\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 53.8
+}

@@ -1,0 +1,660 @@
+{
+  "filings": [
+    {
+      "ticker": "AAPL",
+      "sector": "Technology",
+      "cik": 320193,
+      "accn": "0000320193-25-000079",
+      "document": "aapl-20250927.htm",
+      "report_date": "2025-09-27",
+      "filed": "2025-10-31",
+      "truth": {
+        "revenue": 416161000000.0,
+        "net_income": 112010000000.0,
+        "diluted_eps": 7.46,
+        "total_assets": 359241000000.0,
+        "cash": 35934000000.0,
+        "equity": 73733000000.0
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "cik": 789019,
+      "accn": "0001193125-26-323660",
+      "document": "msft-20260630.htm",
+      "report_date": "2026-06-30",
+      "filed": "2026-07-29",
+      "truth": {
+        "revenue": 331839000000.0,
+        "net_income": 133749000000.0,
+        "diluted_eps": 17.95,
+        "total_assets": 758376000000.0,
+        "cash": 20935000000.0,
+        "equity": 442387000000.0
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "sector": "Technology",
+      "cik": 1045810,
+      "accn": "0001045810-26-000021",
+      "document": "nvda-20260125.htm",
+      "report_date": "2026-01-25",
+      "filed": "2026-02-25",
+      "truth": {
+        "revenue": 215938000000.0,
+        "net_income": 120067000000.0,
+        "diluted_eps": 4.9,
+        "total_assets": 206803000000.0,
+        "cash": 10605000000.0,
+        "equity": 157293000000.0
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "sector": "Communication",
+      "cik": 1652044,
+      "accn": "0001652044-26-000018",
+      "document": "goog-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-05",
+      "truth": {
+        "revenue": 402836000000.0,
+        "net_income": 132170000000.0,
+        "diluted_eps": 10.81,
+        "total_assets": 595281000000.0,
+        "cash": 30708000000.0,
+        "equity": 415265000000.0
+      }
+    },
+    {
+      "ticker": "META",
+      "sector": "Communication",
+      "cik": 1326801,
+      "accn": "0001628280-26-003942",
+      "document": "meta-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-01-29",
+      "truth": {
+        "revenue": 200966000000.0,
+        "net_income": 60458000000.0,
+        "diluted_eps": 23.49,
+        "total_assets": 366021000000.0,
+        "cash": 35873000000.0,
+        "equity": 217243000000.0
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "sector": "Consumer Discretionary",
+      "cik": 1018724,
+      "accn": "0001018724-26-000004",
+      "document": "amzn-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-06",
+      "truth": {
+        "revenue": 716924000000.0,
+        "net_income": 77670000000.0,
+        "diluted_eps": 7.17,
+        "total_assets": 818042000000.0,
+        "cash": 86810000000.0,
+        "equity": 411065000000.0
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "sector": "Consumer Discretionary",
+      "cik": 1318605,
+      "accn": "0001628280-26-003952",
+      "document": "tsla-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-01-29",
+      "truth": {
+        "revenue": 94827000000.0,
+        "net_income": 3794000000.0,
+        "diluted_eps": 1.08,
+        "total_assets": 137806000000.0,
+        "cash": 16513000000.0,
+        "equity": 82137000000.0
+      }
+    },
+    {
+      "ticker": "HD",
+      "sector": "Consumer Discretionary",
+      "cik": 354950,
+      "accn": "0001628280-26-019436",
+      "document": "hd-20260201.htm",
+      "report_date": "2026-02-01",
+      "filed": "2026-03-18",
+      "truth": {
+        "revenue": 164683000000.0,
+        "net_income": 14156000000.0,
+        "diluted_eps": 14.23,
+        "total_assets": 105095000000.0,
+        "cash": 1389000000.0,
+        "equity": 12813000000.0
+      }
+    },
+    {
+      "ticker": "NKE",
+      "sector": "Consumer Discretionary",
+      "cik": 320187,
+      "accn": "0000320187-26-000088",
+      "document": "nke-20260531.htm",
+      "report_date": "2026-05-31",
+      "filed": "2026-07-15",
+      "truth": {
+        "revenue": 46398000000.0,
+        "net_income": 3108000000.0,
+        "diluted_eps": 2.1,
+        "total_assets": 38410000000.0,
+        "cash": 7563000000.0,
+        "equity": 14865000000.0
+      }
+    },
+    {
+      "ticker": "MCD",
+      "sector": "Consumer Discretionary",
+      "cik": 63908,
+      "accn": "0000063908-26-000035",
+      "document": "mcd-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-24",
+      "truth": {
+        "revenue": 26885000000.0,
+        "net_income": 8563000000.0,
+        "diluted_eps": 11.95,
+        "total_assets": 59515000000.0,
+        "cash": 774000000.0,
+        "equity": -1791000000.0
+      }
+    },
+    {
+      "ticker": "WMT",
+      "sector": "Consumer Staples",
+      "cik": 104169,
+      "accn": "0000104169-26-000055",
+      "document": "wmt-20260131.htm",
+      "report_date": "2026-01-31",
+      "filed": "2026-03-13",
+      "truth": {
+        "revenue": 713163000000.0,
+        "net_income": 21893000000.0,
+        "diluted_eps": 2.73,
+        "total_assets": 284668000000.0,
+        "cash": 10727000000.0,
+        "equity": 99617000000.0
+      }
+    },
+    {
+      "ticker": "KO",
+      "sector": "Consumer Staples",
+      "cik": 21344,
+      "accn": "0001628280-26-010047",
+      "document": "ko-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-20",
+      "truth": {
+        "revenue": 47941000000.0,
+        "net_income": 13107000000.0,
+        "diluted_eps": 3.04,
+        "total_assets": 104816000000.0,
+        "cash": 10270000000.0,
+        "equity": 32169000000.0
+      }
+    },
+    {
+      "ticker": "PEP",
+      "sector": "Consumer Staples",
+      "cik": 77476,
+      "accn": "0000077476-26-000007",
+      "document": "pep-20251227.htm",
+      "report_date": "2025-12-27",
+      "filed": "2026-02-03",
+      "truth": {
+        "revenue": 93925000000.0,
+        "net_income": 8240000000.0,
+        "diluted_eps": 6.0,
+        "total_assets": 107399000000.0,
+        "cash": 9159000000.0,
+        "equity": 20406000000.0
+      }
+    },
+    {
+      "ticker": "PG",
+      "sector": "Consumer Staples",
+      "cik": 80424,
+      "accn": "0000080424-26-000103",
+      "document": "pg-20260630.htm",
+      "report_date": "2026-06-30",
+      "filed": "2026-08-04",
+      "truth": {
+        "revenue": 87032000000.0,
+        "net_income": 16046000000.0,
+        "diluted_eps": 6.62,
+        "total_assets": 126521000000.0
+      }
+    },
+    {
+      "ticker": "COST",
+      "sector": "Consumer Staples",
+      "cik": 909832,
+      "accn": "0000909832-26-000093",
+      "document": "cost-20260830.htm",
+      "report_date": "2026-08-30",
+      "filed": "2026-10-07",
+      "truth": {
+        "revenue": 303154000000.0,
+        "net_income": 9226000000.0,
+        "diluted_eps": 20.76,
+        "total_assets": 89045000000.0,
+        "cash": 20207000000.0,
+        "equity": 35803000000.0
+      }
+    },
+    {
+      "ticker": "JNJ",
+      "sector": "Health Care",
+      "cik": 200406,
+      "accn": "0000200406-26-000016",
+      "document": "jnj-20251228.htm",
+      "report_date": "2025-12-28",
+      "filed": "2026-02-11",
+      "truth": {
+        "revenue": 94193000000.0,
+        "net_income": 26804000000.0,
+        "diluted_eps": 11.03,
+        "total_assets": 199210000000.0,
+        "cash": 19709000000.0
+      }
+    },
+    {
+      "ticker": "PFE",
+      "sector": "Health Care",
+      "cik": 78003,
+      "accn": "0000078003-26-000026",
+      "document": "pfe-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-26",
+      "truth": {
+        "revenue": 62579000000.0,
+        "net_income": 7771000000.0,
+        "diluted_eps": 1.36,
+        "total_assets": 208160000000.0,
+        "cash": 1142000000.0,
+        "equity": 86476000000.0
+      }
+    },
+    {
+      "ticker": "MRK",
+      "sector": "Health Care",
+      "cik": 310158,
+      "accn": "0000310158-26-000063",
+      "document": "mrk-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-24",
+      "truth": {
+        "revenue": 65011000000.0,
+        "net_income": 18254000000.0,
+        "diluted_eps": 7.28,
+        "total_assets": 136866000000.0,
+        "cash": 14565000000.0,
+        "equity": 52606000000.0
+      }
+    },
+    {
+      "ticker": "UNH",
+      "sector": "Health Care",
+      "cik": 731766,
+      "accn": "0000731766-26-000062",
+      "document": "unh-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-03-02",
+      "truth": {
+        "revenue": 447567000000.0,
+        "net_income": 12056000000.0,
+        "diluted_eps": 13.23,
+        "total_assets": 309581000000.0,
+        "cash": 24365000000.0
+      }
+    },
+    {
+      "ticker": "ABT",
+      "sector": "Health Care",
+      "cik": 1800,
+      "accn": "0001628280-26-010185",
+      "document": "abt-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-20",
+      "truth": {
+        "revenue": 44328000000.0,
+        "net_income": 6524000000.0,
+        "diluted_eps": 3.72,
+        "total_assets": 86713000000.0,
+        "cash": 8522000000.0,
+        "equity": 52130000000.0
+      }
+    },
+    {
+      "ticker": "JPM",
+      "sector": "Financials",
+      "cik": 19617,
+      "accn": "0001628280-26-008131",
+      "document": "jpm-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-13",
+      "truth": {
+        "revenue": 182447000000.0,
+        "net_income": 57048000000.0,
+        "diluted_eps": 20.02,
+        "total_assets": 4424900000000.0,
+        "equity": 362438000000.0
+      }
+    },
+    {
+      "ticker": "BAC",
+      "sector": "Financials",
+      "cik": 70858,
+      "accn": "0000070858-26-000157",
+      "document": "bac-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-25",
+      "truth": {
+        "revenue": 113097000000.0,
+        "net_income": 30509000000.0,
+        "diluted_eps": 3.81,
+        "total_assets": 3411738000000.0,
+        "equity": 303243000000.0
+      }
+    },
+    {
+      "ticker": "GS",
+      "sector": "Financials",
+      "cik": 886982,
+      "accn": "0000886982-26-000091",
+      "document": "gs-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-25",
+      "truth": {
+        "revenue": 58283000000.0,
+        "net_income": 17176000000.0,
+        "diluted_eps": 51.32,
+        "total_assets": 1809320000000.0,
+        "cash": 164259000000.0,
+        "equity": 124972000000.0
+      }
+    },
+    {
+      "ticker": "V",
+      "sector": "Financials",
+      "cik": 1403161,
+      "accn": "0001403161-25-000089",
+      "document": "v-20250930.htm",
+      "report_date": "2025-09-30",
+      "filed": "2025-11-06",
+      "truth": {
+        "revenue": 40000000000.0,
+        "net_income": 20058000000.0,
+        "total_assets": 99627000000.0,
+        "cash": 17164000000.0
+      }
+    },
+    {
+      "ticker": "MA",
+      "sector": "Financials",
+      "cik": 1141391,
+      "accn": "0001141391-26-000013",
+      "document": "ma-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-11",
+      "truth": {
+        "revenue": 32791000000.0,
+        "diluted_eps": 16.52,
+        "total_assets": 54157000000.0,
+        "cash": 10566000000.0,
+        "equity": 7737000000.0
+      }
+    },
+    {
+      "ticker": "CVX",
+      "sector": "Energy",
+      "cik": 93410,
+      "accn": "0000093410-26-000078",
+      "document": "cvx-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-24",
+      "truth": {
+        "revenue": 189031000000.0,
+        "net_income": 12299000000.0,
+        "diluted_eps": 6.63,
+        "total_assets": 324012000000.0,
+        "equity": 186450000000.0
+      }
+    },
+    {
+      "ticker": "COP",
+      "sector": "Energy",
+      "cik": 1163165,
+      "accn": "0001163165-26-000009",
+      "document": "cop-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-17",
+      "truth": {
+        "revenue": 58944000000.0,
+        "net_income": 7988000000.0,
+        "diluted_eps": 6.35,
+        "total_assets": 121939000000.0,
+        "cash": 6497000000.0,
+        "equity": 64487000000.0
+      }
+    },
+    {
+      "ticker": "CAT",
+      "sector": "Industrials",
+      "cik": 18230,
+      "accn": "0000018230-26-000008",
+      "document": "cat-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-13",
+      "truth": {
+        "revenue": 67589000000.0,
+        "diluted_eps": 18.81,
+        "total_assets": 98585000000.0,
+        "cash": 9980000000.0
+      }
+    },
+    {
+      "ticker": "BA",
+      "sector": "Industrials",
+      "cik": 12927,
+      "accn": "0001628280-26-004357",
+      "document": "ba-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-01-30",
+      "truth": {
+        "revenue": 89463000000.0,
+        "net_income": 2235000000.0,
+        "diluted_eps": 2.48,
+        "total_assets": 168235000000.0,
+        "cash": 10921000000.0,
+        "equity": 5454000000.0
+      }
+    },
+    {
+      "ticker": "UPS",
+      "sector": "Industrials",
+      "cik": 1090727,
+      "accn": "0001628280-26-008432",
+      "document": "ups-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-17",
+      "truth": {
+        "revenue": 88661000000.0,
+        "net_income": 5572000000.0,
+        "diluted_eps": 6.56,
+        "total_assets": 73090000000.0,
+        "cash": 5887000000.0,
+        "equity": 16227000000.0
+      }
+    },
+    {
+      "ticker": "HON",
+      "sector": "Industrials",
+      "cik": 773840,
+      "accn": "0000773840-26-000013",
+      "document": "hon-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-17",
+      "truth": {
+        "revenue": 37442000000.0,
+        "net_income": 4729000000.0,
+        "diluted_eps": 7.36,
+        "total_assets": 73681000000.0,
+        "cash": 12487000000.0,
+        "equity": 13904000000.0
+      }
+    },
+    {
+      "ticker": "DE",
+      "sector": "Industrials",
+      "cik": 315189,
+      "accn": "0001104659-25-122321",
+      "document": "de-20251102x10k.htm",
+      "report_date": "2025-11-02",
+      "filed": "2025-12-18",
+      "truth": {
+        "revenue": 45684000000.0,
+        "net_income": 5027000000.0,
+        "diluted_eps": 18.5,
+        "total_assets": 105996000000.0,
+        "cash": 8276000000.0,
+        "equity": 25950000000.0
+      }
+    },
+    {
+      "ticker": "LIN",
+      "sector": "Materials",
+      "cik": 1707925,
+      "accn": "0001628280-26-011430",
+      "document": "lin-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-25",
+      "truth": {
+        "revenue": 33986000000.0,
+        "net_income": 6898000000.0,
+        "diluted_eps": 14.61,
+        "total_assets": 86817000000.0,
+        "cash": 5056000000.0,
+        "equity": 38245000000.0
+      }
+    },
+    {
+      "ticker": "DOW",
+      "sector": "Materials",
+      "cik": 1751788,
+      "accn": "0001751788-26-000018",
+      "document": "dow-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-03",
+      "truth": {
+        "revenue": 39968000000.0,
+        "diluted_eps": -3.7,
+        "total_assets": 58538000000.0,
+        "cash": 3816000000.0,
+        "equity": 16008000000.0
+      }
+    },
+    {
+      "ticker": "NEE",
+      "sector": "Utilities",
+      "cik": 753308,
+      "accn": "0000753308-26-000015",
+      "document": "nee-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-13",
+      "truth": {
+        "revenue": 25800000000.0,
+        "net_income": 6835000000.0,
+        "diluted_eps": 3.3,
+        "total_assets": 212721000000.0,
+        "cash": 2812000000.0,
+        "equity": 54608000000.0
+      }
+    },
+    {
+      "ticker": "DUK",
+      "sector": "Utilities",
+      "cik": 1326160,
+      "accn": "0001326160-26-000014",
+      "document": "duk-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-26",
+      "truth": {
+        "revenue": 31741000000.0,
+        "net_income": 4968000000.0,
+        "diluted_eps": 6.31,
+        "total_assets": 195736000000.0,
+        "cash": 245000000.0,
+        "equity": 51842000000.0
+      }
+    },
+    {
+      "ticker": "AMT",
+      "sector": "Real Estate",
+      "cik": 1053507,
+      "accn": "0001053507-26-000035",
+      "document": "amt-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-24",
+      "truth": {
+        "revenue": 10644600000.0,
+        "diluted_eps": 5.4,
+        "total_assets": 63190400000.0,
+        "cash": 1474800000.0,
+        "equity": 3652500000.0
+      }
+    },
+    {
+      "ticker": "PLD",
+      "sector": "Real Estate",
+      "cik": 1045609,
+      "accn": "0001193125-26-051453",
+      "document": "pld-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-02-13",
+      "truth": {
+        "revenue": 8790127000.0,
+        "net_income": 3328231000.0,
+        "diluted_eps": 3.56,
+        "total_assets": 98724256000.0,
+        "cash": 1145647000.0,
+        "equity": 53193178000.0
+      }
+    },
+    {
+      "ticker": "NFLX",
+      "sector": "Communication",
+      "cik": 1065280,
+      "accn": "0001065280-26-000034",
+      "document": "nflx-20251231.htm",
+      "report_date": "2025-12-31",
+      "filed": "2026-01-23",
+      "truth": {
+        "revenue": 45183036000.0,
+        "net_income": 10981201000.0,
+        "diluted_eps": 2.53,
+        "total_assets": 55596993000.0,
+        "cash": 9033681000.0,
+        "equity": 26615488000.0
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "ticker": "XOM",
+      "cik": 2115436,
+      "reason": "no 10-K found for CIK 2115436"
+    }
+  ]
+}

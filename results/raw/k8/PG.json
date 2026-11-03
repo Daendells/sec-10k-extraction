@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\n    \"value\": null,\n    \"scale\": null,\n    \"evidence\": null\n  },\n  \"net_income\": {\n    \"value\": 16046,\n    \"scale\": \"millions\",\n    \"evidence\": \"NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE | $ | 16,046 | $ | 15,974 | $ | 14,879\"\n  },\n  \"diluted_eps\": {\n    \"value\": 6.62,\n    \"scale\": \"units\",\n    \"evidence\": \"Diluted | $ | 6.62 | $ | 6.51 | $ | 6.02\"\n  },\n  \"total_assets\": {\n    \"value\": 126521,\n    \"scale\": \"millions\",\n    \"evidence\": \"TOTAL ASSETS | $ | 126,521 | $ | 125,231\"\n  },\n  \"cash\": {\n    \"value\": 9942,\n    \"scale\": \"millions\",\n    \"evidence\": \"Cash and cash equivalents | $ | 9,942 | $ | 9,556\"\n  },\n  \"equity\": {\n    \"value\": 54311,\n    \"scale\": \"millions\",\n    \"evidence\": \"TOTAL SHAREHOLDERS' EQUITY | 54,311 | 52,284\"\n  }\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 68.5
+}

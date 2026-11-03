@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\n    \"value\": \"184,432\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Sales and Other Operating Revenues | $ | 184,432 | $ | 193,414 | $ | 196,913\"\n  },\n  \"net_income\": {\n    \"value\": \"12,299\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Net Income (Loss) Attributable to Chevron Corporation | $ | 12,299 | $ | 17,661 | $ | 21,369\"\n  },\n  \"diluted_eps\": {\n    \"value\": \"6.63\",\n    \"scale\": \"units\",\n    \"evidence\": \"\u2013 Diluted | $ | 6.63 | $ | 9.72 | $ | 11.36\"\n  },\n  \"total_assets\": {\n    \"value\": \"324,012\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Total Assets | $ | 324,012 | $ | 256,938\"\n  },\n  \"cash\": {\n    \"value\": \"6,293\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Cash and cash equivalents | $ | 6,293 | $ | 6,781\"\n  },\n  \"equity\": {\n    \"value\": \"186,450\",\n    \"scale\": \"millions\",\n    \"evidence\": \"Total Chevron Corporation Stockholders\u2019 Equity | 186,450 | 152,318\"\n  }\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 23.2
+}

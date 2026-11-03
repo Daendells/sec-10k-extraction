@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": null, \"scale\": null, \"evidence\": null}, \"net_income\": {\"value\": 8240, \"scale\": \"millions\", \"evidence\": \"Net income attributable to PepsiCo | 8,240 | 9,578 | 9,074\"}, \"diluted_eps\": {\"value\": 6.00, \"scale\": \"units\", \"evidence\": \"Diluted | $ | 6.00 | $ | 6.95 | $ | 6.56\"}, \"total_assets\": {\"value\": 107399, \"scale\": \"millions\", \"evidence\": \"Total Assets | $ | 107,399 | $ | 99,467\"}, \"cash\": {\"value\": 9159, \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 9,159 | $ | 8,505\"}, \"equity\": {\"value\": 20406, \"scale\": \"millions\", \"evidence\": \"Total PepsiCo Common Shareholders' Equity | 20,406 | 18,041\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 65.8
+}

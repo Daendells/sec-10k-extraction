@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"37,442\", \"scale\": \"millions\", \"evidence\": \"Net sales | 37,442 | 34,717 | 33,009\"}, \"net_income\": {\"value\": \"4,729\", \"scale\": \"millions\", \"evidence\": \"Net income attributable to Honeywell | $ | 4,729 | $ | 5,705 | $ | 5,658\"}, \"diluted_eps\": {\"value\": \"7.36\", \"scale\": \"units\", \"evidence\": \"Total earnings per share of common stock\u2014assuming dilution | $ | 7.36 | $ | 8.71 | $ | 8.47\"}, \"total_assets\": {\"value\": \"73,681\", \"scale\": \"millions\", \"evidence\": \"Total assets | $ | 73,681 | $ | 75,196\"}, \"cash\": {\"value\": \"12,487\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 12,487 | $ | 9,906\"}, \"equity\": {\"value\": \"13,904\", \"scale\": \"millions\", \"evidence\": \"Total Honeywell shareowners\u2019 equity | 13,904 | 18,619\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 21.2
+}

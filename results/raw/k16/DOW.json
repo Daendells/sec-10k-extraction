@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"39,968\", \"scale\": \"millions\", \"evidence\": \"Net sales | $ | 39,968 | $ | 42,964 | $ | 44,622\"}, \"net_income\": {\"value\": \"-2,623\", \"scale\": \"millions\", \"evidence\": \"Net income (loss) available for Dow Inc. common stockholders | $ | ( 2,623 ) | $ | 1,116 | $ | 589\"}, \"diluted_eps\": {\"value\": \"-3.70\", \"scale\": \"units\", \"evidence\": \"Earnings (loss) per common share - diluted | $ | ( 3.70 ) | $ | 1.57 | $ | 0.82\"}, \"total_assets\": {\"value\": \"58,538\", \"scale\": \"millions\", \"evidence\": \"Total Assets | $ | 58,538 | $ | 57,312\"}, \"cash\": {\"value\": \"3,816\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 3,816 | $ | 2,189\"}, \"equity\": {\"value\": \"16,008\", \"scale\": \"millions\", \"evidence\": \"Dow Inc.'s stockholders' equity | 16,008 | 17,355\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 13.0
+}

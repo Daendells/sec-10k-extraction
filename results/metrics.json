@@ -1,0 +1,136 @@
+{
+  "k16": {
+    "overall": {
+      "n": 220,
+      "accuracy": 0.9591,
+      "coverage": 0.9818,
+      "scale_errors": 0,
+      "verified_correct": 206,
+      "verified_wrong": 4
+    },
+    "by_field": {
+      "cash": {
+        "n": 35,
+        "accuracy": 0.9714,
+        "coverage": 0.9714,
+        "scale_errors": 0,
+        "verified_correct": 34,
+        "verified_wrong": 0
+      },
+      "diluted_eps": {
+        "n": 38,
+        "accuracy": 0.9737,
+        "coverage": 0.9737,
+        "scale_errors": 0,
+        "verified_correct": 37,
+        "verified_wrong": 0
+      },
+      "equity": {
+        "n": 34,
+        "accuracy": 0.9706,
+        "coverage": 0.9706,
+        "scale_errors": 0,
+        "verified_correct": 33,
+        "verified_wrong": 0
+      },
+      "net_income": {
+        "n": 35,
+        "accuracy": 1.0,
+        "coverage": 1.0,
+        "scale_errors": 0,
+        "verified_correct": 35,
+        "verified_wrong": 0
+      },
+      "revenue": {
+        "n": 39,
+        "accuracy": 0.8718,
+        "coverage": 1.0,
+        "scale_errors": 0,
+        "verified_correct": 33,
+        "verified_wrong": 4
+      },
+      "total_assets": {
+        "n": 39,
+        "accuracy": 0.9744,
+        "coverage": 0.9744,
+        "scale_errors": 0,
+        "verified_correct": 34,
+        "verified_wrong": 0
+      }
+    },
+    "accuracy_when_value_was_retrieved": 0.986,
+    "retrieval_recall": 0.9727,
+    "models_that_answered": {
+      "nvidia/nemotron-3-ultra-550b-a55b:free": 39
+    },
+    "failed_requests": 0,
+    "median_seconds": 28.0
+  },
+  "k8": {
+    "overall": {
+      "n": 220,
+      "accuracy": 0.8455,
+      "coverage": 0.8727,
+      "scale_errors": 0,
+      "verified_correct": 179,
+      "verified_wrong": 4
+    },
+    "by_field": {
+      "cash": {
+        "n": 35,
+        "accuracy": 0.8571,
+        "coverage": 0.9143,
+        "scale_errors": 0,
+        "verified_correct": 29,
+        "verified_wrong": 1
+      },
+      "diluted_eps": {
+        "n": 38,
+        "accuracy": 0.8158,
+        "coverage": 0.8158,
+        "scale_errors": 0,
+        "verified_correct": 30,
+        "verified_wrong": 0
+      },
+      "equity": {
+        "n": 34,
+        "accuracy": 0.9412,
+        "coverage": 0.9412,
+        "scale_errors": 0,
+        "verified_correct": 31,
+        "verified_wrong": 0
+      },
+      "net_income": {
+        "n": 35,
+        "accuracy": 0.9429,
+        "coverage": 0.9429,
+        "scale_errors": 0,
+        "verified_correct": 32,
+        "verified_wrong": 0
+      },
+      "revenue": {
+        "n": 39,
+        "accuracy": 0.6154,
+        "coverage": 0.7179,
+        "scale_errors": 0,
+        "verified_correct": 23,
+        "verified_wrong": 3
+      },
+      "total_assets": {
+        "n": 39,
+        "accuracy": 0.9231,
+        "coverage": 0.9231,
+        "scale_errors": 0,
+        "verified_correct": 34,
+        "verified_wrong": 0
+      }
+    },
+    "accuracy_when_value_was_retrieved": 0.9343,
+    "retrieval_recall": 0.9,
+    "models_that_answered": {
+      "nvidia/nemotron-3-ultra-550b-a55b:free": 39
+    },
+    "failed_requests": 0,
+    "median_seconds": 39.5
+  }
+}

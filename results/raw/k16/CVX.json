@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"184,432\", \"scale\": \"millions\", \"evidence\": \"Sales and Other Operating Revenues | $ | 184,432 | $ | 193,414 | $ | 196,913\"}, \"net_income\": {\"value\": \"12,299\", \"scale\": \"millions\", \"evidence\": \"Net Income (Loss) Attributable to Chevron Corporation | $ | 12,299 | $ | 17,661 | $ | 21,369\"}, \"diluted_eps\": {\"value\": \"6.63\", \"scale\": \"units\", \"evidence\": \"\u2013 Diluted | $ | 6.63 | $ | 9.72 | $ | 11.36\"}, \"total_assets\": {\"value\": \"324,012\", \"scale\": \"millions\", \"evidence\": \"Total Assets | $ | 324,012 | $ | 256,938\"}, \"cash\": {\"value\": \"6,293\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 6,293 | $ | 6,781\"}, \"equity\": {\"value\": \"186,450\", \"scale\": \"millions\", \"evidence\": \"Total Chevron Corporation Stockholders' Equity | 186,450 | 152,318\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 14.2
+}

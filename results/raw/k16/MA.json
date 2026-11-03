@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"32,791\", \"scale\": \"millions\", \"evidence\": \"Net Revenue | $ | 32,791 | $ | 28,167 | $ | 25,098\"}, \"net_income\": {\"value\": \"14,968\", \"scale\": \"millions\", \"evidence\": \"Net Income | $ | 14,968 | $ | 12,874 | $ | 11,195\"}, \"diluted_eps\": {\"value\": \"16.52\", \"scale\": \"units\", \"evidence\": \"Diluted Earnings per Share | $ | 16.52 | $ | 13.89 | $ | 11.83\"}, \"total_assets\": {\"value\": \"54,157\", \"scale\": \"millions\", \"evidence\": \"Total Assets | $ | 54,157 | $ | 48,081\"}, \"cash\": {\"value\": \"10,566\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 10,566 | $ | 8,442\"}, \"equity\": {\"value\": \"7,737\", \"scale\": \"millions\", \"evidence\": \"Mastercard Incorporated Stockholders' Equity | 7,737 | 6,485\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 20.5
+}

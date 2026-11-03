@@ -1,0 +1,5 @@
+{
+ "reply": "{\n  \"revenue\": {\"value\": 33986, \"scale\": \"millions\", \"evidence\": \"Sales | $ | 33,986 | $ | 33,005 | $ | 32,854\"},\n  \"net_income\": {\"value\": 6898, \"scale\": \"millions\", \"evidence\": \"Net Income \u2013 Linde plc | $ | 6,898 | $ | 6,565 | $ | 6,199\"},\n  \"diluted_eps\": {\"value\": 14.61, \"scale\": \"units\", \"evidence\": \"Diluted earnings per share | $ | 14.61 | $ | 13.62 | $ | 12.59\"},\n  \"total_assets\": {\"value\": 86817, \"scale\": \"millions\", \"evidence\": \"Total Assets | $ | 86,817 | $ | 80,147\"},\n  \"cash\": {\"value\": 5056, \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 5,056 | $ | 4,850\"},\n  \"equity\": {\"value\": 38245, \"scale\": \"millions\", \"evidence\": \"Total Linde plc Shareholders\u2019 Equity | 38,245 | 38,092\"}\n}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 21.3
+}

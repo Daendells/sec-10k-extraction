@@ -1,0 +1,5 @@
+{
+ "reply": "{\"revenue\": {\"value\": \"62,579\", \"scale\": \"millions\", \"evidence\": \"Total net sales | 62,579 | 63,627 | 59,553\"}, \"net_income\": {\"value\": \"7,771\", \"scale\": \"millions\", \"evidence\": \"Net income attributable to Pfizer Inc. common shareholders | $ | 7,771 | $ | 8,031 | $ | 2,119\"}, \"diluted_eps\": {\"value\": \"1.36\", \"scale\": \"units\", \"evidence\": \"Net income attributable to Pfizer Inc. common shareholders | $ | 1.36 | $ | 1.41 | $ | 0.37\"}, \"total_assets\": {\"value\": \"208,160\", \"scale\": \"millions\", \"evidence\": \"Total assets | $ | 208,160 | $ | 213,396\"}, \"cash\": {\"value\": \"1,142\", \"scale\": \"millions\", \"evidence\": \"Cash and cash equivalents | $ | 1,142 | $ | 1,043\"}, \"equity\": {\"value\": \"86,476\", \"scale\": \"millions\", \"evidence\": \"Total Pfizer Inc. shareholders' equity | 86,476 | 88,203\"}}",
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "seconds": 14.5
+}
