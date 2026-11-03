@@ -45,6 +45,8 @@ was sometimes not retrieved at all, and the model correctly returned null.
 
 By field, at k=16:
 
+![Correct values by field at k=16](results/accuracy_by_field.png)
+
 | Field | Correct |
 | --- | ---: |
 | Net income | 35 / 35 |
