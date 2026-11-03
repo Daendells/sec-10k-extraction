@@ -82,7 +82,8 @@ mismatches, because those quotes are real.
 - 39 filings is a small sample. One more mistake moves accuracy by about half a percentage point.
 - All companies are large US firms with clean, standard statements. Smaller filers and other formats will be harder.
 - Free models on OpenRouter change and get rate-limited. Re-running with live calls may give different replies. The
-  cached replies in `results/raw/` reproduce the numbers above exactly.
+  cached replies in `results/raw/` reproduce the numbers above exactly with `--score-only`, after the download step
+  has fetched the filing text.
 
 ## Running it
 
